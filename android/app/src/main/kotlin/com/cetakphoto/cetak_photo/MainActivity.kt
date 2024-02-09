@@ -1,0 +1,6 @@
+package com.cetakphoto.cetak_photo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

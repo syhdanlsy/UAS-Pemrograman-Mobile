@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAsNeXqwATL-fOnsn3mQCzHp_N4jJnRbqw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788532474341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cetakphoto.cetakPhoto</string>
+	<key>PROJECT_ID</key>
+	<string>cetak-photo-70917</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cetak-photo-70917.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788532474341:ios:514946df5df82fcd547f0c</string>
+</dict>
+</plist>

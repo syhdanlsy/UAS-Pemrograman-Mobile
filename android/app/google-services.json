@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788532474341",
+    "project_id": "cetak-photo-70917",
+    "storage_bucket": "cetak-photo-70917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788532474341:android:1e14a8a3edd1cb42547f0c",
+        "android_client_info": {
+          "package_name": "com.cetakphoto.cetak_photo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHbS4gmTtyP2YLyfaozZCBeN6XDXIdi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
